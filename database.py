@@ -1,4 +1,4 @@
-# bagian Nazwa talisha inaya
+# bagian tita dan nazwa
 import mysql.connector
 
 # Membuat koneksi ke database
@@ -8,4 +8,4 @@ db = mysql.connector.connect(
     password="",
     database="music_player"
 )
-# selesai Nazwa talisha inaya
+# selesai tita dan nazwa
