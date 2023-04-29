@@ -1,4 +1,4 @@
-<!-- bagian tita dan nazwa --
+<!-- bagian nazwa --
 
 
 Kel 6 ASD : Tita Nabila Putri, Nazwa Talisya Inaya, Gunawan
@@ -16,6 +16,9 @@ Aplikasi ini merujuk pada playlist yang memungkinkan kita untuk menambah lagu, m
 2. login user : pada fitur ini berfungsi untuk login pengguna
 3. log out : pada fitur ini berfungsi untuk keluar dari menu
 
+<!--selesai nazwa  -->
+
+<!--bagian tita  -->
 - MENU USER STANDAR -
 1. Add Song : Menambahkan lagu
 2. Remove Song : Menghapus lagu
@@ -41,4 +44,4 @@ Pada program ini, linked list difungsikan agar dapat menyimpan record data yang 
 ## Cara Penggunaan
 Saat di-run, program akan menampilkan pilihan kepada user untuk melakukan registrasi terlebih dahulu, kemudian login, lalu akan ditampilkan menu ingin melakukan apa. Jika user memilih/menginputkan pilihan pertama yaitu Add Song, maka user akan diminta memasukkan judul, penyanyi dan durasi lagu yang nantinya akan otomatis masuk pada Display Playlist di pilihan pertama dan pada saat kita membuka Display Playlist kembali, maka akan tertera judul, penyanyi dan durasi yang telah dimasukkan. Selanjutnya ketika user menginput pilihan kedua yaitu Remove Lagu, maka user hanya akan diminta untuk memasukkan judul lagu yang ingin dihapus. Dan apabila lagu telah terhapus, maka lagu tersebut otomatis juga hilang/terhapus dari Display Playlist. Kemudian pada pilihan ketiga yaitu Display Playlist, maka akan ditampilkan lagu-lagu apa saja yang ada di dalam playlist. Jika belum ada lagu yang ditambahkan, maka program akan menampilkan/memberitahukan bahwa isi playlist masih kosong. Lalu ketika user menginput pilihan keempat yaitu mencari lagu yang ada dalam playlist, jadi user memasukkan judul lagu yang ingin dicari. Pilihan kelima yaitu mengsorting data yang tidak berurut menjadi data yang terurut. Keenam adalah pilihan jika user standar ingin beralih ke premium, dan jika sudah beralih ke premium maka saldo akan berkurang. Lalu jika user memilih pilihan ke tujuh adalah sisa saldo yang tersedia. Kemudian pada pilihan ke delapan yaitu Exit, maka program akan terhenti. Sementara jika user menginputkan pilihan angka yang tidak tertera pada pilihan, maka akan diberitahukan bahwa pilihan tidak tersedia. Untuk menu pada user premium yang keenam adalah pilihan tiket konser, jadi pada user premium dapat melakukan pembelian tiket konser dengan harga terjangkau yang sudah tersedia dan tinggal memasukkan nama dan tiket konser yang ingin dibeli.
 
-<!--selesai tita dan nazwa  -->
+<!--selesai tita -->
