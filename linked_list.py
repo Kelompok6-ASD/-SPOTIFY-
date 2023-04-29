@@ -44,4 +44,5 @@ class LinkedList:
         while current:
             yield current.data
             current = current.next
+    
 #  selesai tita dan nazwa
