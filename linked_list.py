@@ -1,3 +1,4 @@
+# bagian tita dan nazwa
 from node import Node
 
 class LinkedList:
@@ -43,3 +44,4 @@ class LinkedList:
         while current:
             yield current.data
             current = current.next
+#  selesai tita dan nazwa
