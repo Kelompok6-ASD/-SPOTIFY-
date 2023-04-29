@@ -1,3 +1,4 @@
+# bagian tita dan nazwa
 import csv
 import os
 os.system('cls')
@@ -200,3 +201,4 @@ def login():
             break
 
 login()
+# selesai tita dan nazwa
