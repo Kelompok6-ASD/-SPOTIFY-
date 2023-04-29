@@ -1,3 +1,4 @@
+# bagian tita dan nazwa
 from linked_list import LinkedList
 from song import Song
 
@@ -68,5 +69,5 @@ class User:
         with open(f"{self.username}_playlist.txt", "w") as f:
             for song in self.playlist.linked_list:
                 f.write(f"{song.title} - {song.artist}\n")
-        
+#  selesai tita dan nazwa
         
