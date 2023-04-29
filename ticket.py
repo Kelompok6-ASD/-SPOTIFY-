@@ -1,3 +1,4 @@
+# bagian tita dan wawa
 from database import db
 
 
@@ -29,3 +30,4 @@ def show_tickets():
         else:
             print(f"{ticket[0]:<4}| {ticket[1]:<22} | {ticket[2]:<14}     | {ticket[3]:>5}")
             print(f"-------------------------------------------------------")
+# selesai tita dan wawa
