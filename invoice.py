@@ -1,4 +1,4 @@
-# bagian tita nabila putri
+# bagian tita dan nazwa
 from database import db
 import csv
 
@@ -57,5 +57,5 @@ def print_invoice(customer_name, ticket_id, qty, file_path):
             else:
                 invoice = invoice_queue.dequeue()
                 writer.writerow(invoice)
-# selesai tita nabila putri
+# selesai tita dan nazwa
 
